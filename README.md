@@ -1,2 +1,2 @@
 # NYC-flights-data-analysis
-First repository on GitHub
+A basic analysis of the flights from NYC has been performed. The effect of weather conditions on flight activity has also been studied.
